@@ -93,7 +93,7 @@ const Shop = () => {
     
         <div>
       <div className="bg-[url('/src/assets/images/banner.webp')] bg-cover bg-center h-[300px] flex items-center justify-center">
-                <h1 className='font-bold text-5xl text-amber-50'>NEWS</h1>
+                <h1 className='font-bold text-5xl text-amber-50'>PRODUCTS</h1>
             </div>
 
         </div>
