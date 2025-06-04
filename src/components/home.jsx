@@ -1,11 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-const contact = () => {
+const Home = () => {
     return (
-        <div>
-            
-        </div>
+        
     );
 };
 
-export default contact;
+export default Home;

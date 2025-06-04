@@ -6,6 +6,7 @@ import { Route, Routes  } from 'react-router-dom';
 import Contact from '../src/components/contact';
 import Blog from './components/blog';
 import Shop from './components/shop';
+import Home from './components/home';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
 
     <Routes>
       
+      <Route path="/home" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/blog" element={<Blog />} />
