@@ -1,0 +1,31 @@
+import logo from "../assets/images/logo.png.webp"
+import contact from "../assets/images/contacttop.webp"
+import banner2 from "../assets/images/banner-02.jpg"
+import banner7 from "../assets/images/banner-07.jpg"
+import banner8 from "../assets/images/banner-08.jpg"
+import bgvd from "../assets/images/bg-video-01.jpg.webp"
+import blog1 from "../assets/images/blog-01.jpg"
+import blog2 from "../assets/images/blog-02.jpg"
+import blog3 from "../assets/images/blog-03.jpg"
+import cards1 from "../assets/images/cards1.webp"
+import cards2 from "../assets/images/cards2.webp"
+import cards3 from "../assets/images/cards3.webp"
+import cards4 from "../assets/images/cards4.webp"
+import cards5 from "../assets/images/cards5.webp"
+import cards6 from "../assets/images/cards6.webp"
+import carousel1 from "../assets/images/carousel1.jpg"
+import carousel2 from "../assets/images/carousel2.jpg"
+import carousel3 from "../assets/images/carousel3.jpg"
+import carousel1 from "../assets/images/carousel1.webp"
+import discover from "../assets/images/discover.png.webp"
+import express from "../assets/images/express.png.webp"
+import gallery3 from "../assets/images/gallery-03.jpg"
+import gallery7 from "../assets/images/gallery-07.jpg"
+import gallery9 from "../assets/images/gallery-07.jpg"
+import gallery13 from "../assets/images/gallery-13.jpg"
+import gallery15 from "../assets/images/gallery-15.jpg"
+export default {
+    logo,
+    contact,
+    about,
+}
